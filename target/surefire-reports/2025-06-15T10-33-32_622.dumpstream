@@ -1,5 +1,0 @@
-# Created at 2025-06-15T10:33:33.085
-Boot Manifest-JAR contains absolute paths in classpath 'D:\AutomationFrameworksInvestigation\selenide-cucumber\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-

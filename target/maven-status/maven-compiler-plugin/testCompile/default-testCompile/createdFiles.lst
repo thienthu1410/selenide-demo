@@ -1,7 +1,0 @@
-stepdefs\register\RegisterStepDefs.class
-util\Hooks.class
-reportportal\CustomizeStepFailedListener.class
-stepdefs\login\LoginStepDefs.class
-runners\LoginRunner.class
-runners\RegisterRunner.class
-stepdefs\google\GoogleStepDefs.class
